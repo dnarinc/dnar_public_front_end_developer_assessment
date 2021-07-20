@@ -26,5 +26,7 @@ Please refer to these designs to build out your project:
 * Use of design animations and best practices.
 * Early Submission
 * Publishing to the cloud.
+* Responsive for 3 most common resolutions (1 mobile, 1 tablet and 1 desktop)
+* SASS or LESS
 
 >Please reach out to the developer who sent you this assignment if you have any questions.
