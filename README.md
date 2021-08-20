@@ -28,5 +28,9 @@ Please refer to these designs to build out your project:
 * Publishing to the cloud.
 * Responsive for 3 most common resolutions (1 mobile, 1 tablet and 1 desktop)
 * SASS or LESS
+* Typescript
+
+## Optional Challenge
+* Deploying instead to a mobile device as a React Native application
 
 >Please reach out to the developer who sent you this assignment if you have any questions.
